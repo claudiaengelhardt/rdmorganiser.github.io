@@ -2,7 +2,7 @@
 layout: front
 
 key: index
-lang: de
+lang: en
 ---
 
 Projekt
